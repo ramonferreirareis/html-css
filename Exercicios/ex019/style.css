@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+  background-color: rgb(205, 236, 205);
+}
+
+#titulo {
+  background-color: rgb(64, 119, 64);
+  color: white;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.subtitulos {
+  color: rgb(24, 66, 24);
+}
+
+.basico {
+  color: green;   
+}
+
+.intermediario {
+  color: rgb(168, 168, 49);
+}
+
+.avancado {
+  color: rgb(94, 38, 38);
+}
+
+.destaque {
+  background-color: rgba(225, 255, 127, 0.527);
+  padding: 5px;
+}
